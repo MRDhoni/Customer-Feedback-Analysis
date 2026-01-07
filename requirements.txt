@@ -7,3 +7,4 @@ scikit-learn
 xgboost
 wordcloud
 beautifulsoup4
+plotly
