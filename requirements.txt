@@ -8,3 +8,6 @@ xgboost
 wordcloud
 beautifulsoup4
 plotly
+nltk
+
+
